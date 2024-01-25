@@ -1,3 +1,10 @@
+![image](https://github.com/kulhara-ankit/tech-era-reactjs/assets/146313680/ddc9ed2e-586c-4998-b489-21e37beba2a5)
+
+
+![image](https://github.com/kulhara-ankit/tech-era-reactjs/assets/146313680/45ab2d50-a0b2-48af-8fad-31d1dc9e32a9)
+
+
+
 The goal of this coding exam is to quickly get you off the ground with **Fetching and Routing**.
 
 ### Refer to the images below:
